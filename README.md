@@ -1,2 +1,6 @@
-# Battle Of The Chat - Bug / Ideas Report
- A Triva Game For Streaming
+## Bug and Ideas Reporting Repo For Battle Of The Chat
+
+
+
+ 
+Website: http://battleofthechat.net/
